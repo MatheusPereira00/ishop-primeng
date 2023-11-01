@@ -10,7 +10,7 @@ import { TranslocoRootModule } from 'src/app/shared/transloco/transloco-root.mod
   template: `<ng-container *transloco="let transloco">
     <div class="fixed bottom-0 left-0" style="margin: auto; width: 100%">
       <div class="text-center p-3 bg-primary">
-        <p>&copy;> {{ transloco('IbmShopFooter') }}</p>
+        <p>&copy;> {{ transloco('matheusShopFooter') }}</p>
       </div>
     </div>
   </ng-container>`,

@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "ibm_shop": {
+    "matheus_shop": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/ibm_shop",
+            "outputPath": "dist/matheus_shop",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": ["zone.js"],
@@ -60,10 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "ibm_shop:build:production"
+              "browserTarget": "matheus_shop:build:production"
             },
             "development": {
-              "browserTarget": "ibm_shop:build:development"
+              "browserTarget": "matheus_shop:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -71,7 +71,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "ibm_shop:build"
+            "browserTarget": "matheus_shop:build"
           }
         },
         "test": {

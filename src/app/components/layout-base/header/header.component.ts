@@ -19,7 +19,7 @@ import { CarouselComponent } from '../../../shared/carousel/carousel.component';
   selector: 'app-header',
   template: ` <p-toolbar>
     <div class="p-toolbar-group-start gap-3 ml-2">
-      <h1 routerLink="/" style="color: var(--primary-color)">IBM SHOP</h1>
+      <h1 routerLink="/" style="color: var(--primary-color)">matheus SHOP</h1>
       <app-sidenav />
     </div>
     <div>

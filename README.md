@@ -1,12 +1,12 @@
 <h1 align="center">
-   IBM Shop
+   matheus Shop
 </h1>
 
 <br>
 
 ## 💻 Projeto
-Frontend do projeto IBM Shop, um ecommerce a ser desenvolvido com 
-Angular e Spring Boot, para aperfeiçoamento e treinamento em desenvolvimento Web dos Associates da IBM dentro da conta Santander.
+Frontend do projeto matheus Shop, um ecommerce a ser desenvolvido com 
+Angular e Spring Boot, para aperfeiçoamento e treinamento em desenvolvimento Web dos Associates da matheus dentro da conta Santander.
 
 ## 🔖 Layout
 

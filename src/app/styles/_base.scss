@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+@import './mixins';
+
+:root {
+  --primary-color: #0052dd;
+  --primary-color-dark: #1a649c;
+  --primary-color-light: #5cb7f4;
+
+  --accent-color: #00a5a5;
+  --success-color: #5aa454;
+  --danger-color: #f66257;
+  --warning-color: #ffc116;
+
+  --white: #fff;
+  --black: #000;
+
+  --grey-light-color-1: #faf9f9;
+  --grey-light-color-2: #f4f2f2;
+  --grey-light-color-3: #f0eeee;
+  --grey-light-color-4: #ccc;
+  --grey-light-color-5: #ddd;
+
+  --grey-dark-color-1: #333;
+  --grey-dark-color-2: #777;
+  --grey-dark-color-3: #999;
+
+  --shadow-color-1: rgba(0, 0, 0, 0.9);
+  --shadow-color-2: rgba(0, 0, 0, 0.7);
+  --shadow-color-3: rgba(0, 0, 0, 0.5);
+  --shadow-color-4: rgba(0, 0, 0, 0.1);
+
+  --shadow-dark: 0 2rem 6rem rgba(0, 0, 0, 0.3);
+  --shadow-light: 0 2rem 5rem rgba(0, 0, 0, 0.15);
+
+  --shadow-card: 2px 2px 3px 3px rgba(0, 82, 221, 0.4);
+
+  --line: 1px solid var(--grey-light-color-4);
+
+}
+
+$bp-largest: 75em; //1200px/16
+$bp-large: 68.75em; //1100px/16
+$bp-medium: 56.25em; //900px/16
+$bp-small: 37.5em; // 600px/16
+$bp-smallest: 31.25em; //500px/16
+$bp-smallestx: 18.75em; //300px/16
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; //1rem = 10px
+
+  @media only screen and (max-width: $bp-large) {
+    font-size: 50%;
+  }
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--grey-dark-color-2);
+}

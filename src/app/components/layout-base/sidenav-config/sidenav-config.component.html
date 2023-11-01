@@ -1,0 +1,121 @@
+<p-toast
+  position="top-center"
+  key="tc"
+  [showTransformOptions]="'translateY(100%)'"
+  [showTransitionOptions]="'1000ms'"
+  [hideTransitionOptions]="'1000ms'"
+  [showTransformOptions]="'translateX(100%)'"></p-toast>
+
+<p-sidebar [(visible)]="sidebarVisible" styleClass="w-23rem" position="right">
+  <h5>Scale</h5>
+  <div class="flex align-items-center">
+    <button
+      icon="pi pi-minus"
+      type="button"
+      pButton
+      (click)="decrementScale()"
+      class="p-button-text p-button-rounded w-2rem h-2rem mr-2"
+      [disabled]="scale === scales[0]"></button>
+    <div class="flex gap-2 align-items-center">
+      <i
+        class="pi pi-circle-fill text-300"
+        *ngFor="let s of scales"
+        [ngClass]="{ 'text-primary-500': s === scale }"></i>
+    </div>
+    <button
+      icon="pi pi-plus"
+      type="button"
+      pButton
+      (click)="incrementScale()"
+      class="p-button-text p-button-rounded w-2rem h-2rem ml-2"
+      [disabled]="scale === scales[scales.length - 1]"></button>
+  </div>
+
+  <div class="mt-5">
+    <button
+      icon="pi pi-globe"
+      type="button"
+      pButton
+      pRipple
+      (click)="changeLang('en')"
+      label="Ingles"
+      class="p-button"></button>
+  </div>
+
+  <div class="mt-6">
+    <h5>Bootstrap</h5>
+    <div class="grid mt-2">
+      <div class="col-3">
+        <button
+          class="p-link w-2rem h-2rem"
+          (click)="changeTheme('bootstrap4-light-blue', 'light')">
+          <img
+            src="assets/images/themes/bootstrap4-light-blue.svg"
+            class="w-2rem h-2rem"
+            alt="Bootstrap Light Blue" />
+        </button>
+      </div>
+      <div class="col-3">
+        <button
+          class="p-link w-2rem h-2rem"
+          (click)="changeTheme('bootstrap4-light-purple', 'light')">
+          <img
+            src="assets/images/themes/bootstrap4-light-purple.svg"
+            class="w-2rem h-2rem"
+            alt="Bootstrap Light Purple" />
+        </button>
+      </div>
+      <div class="col-3">
+        <button
+          class="p-link w-2rem h-2rem"
+          (click)="changeTheme('bootstrap4-dark-blue', 'dark')">
+          <img
+            src="assets/images/themes/bootstrap4-dark-blue.svg"
+            class="w-2rem h-2rem"
+            alt="Bootstrap Dark Blue" />
+        </button>
+      </div>
+      <div class="col-3">
+        <button
+          class="p-link w-2rem h-2rem"
+          (click)="changeTheme('bootstrap4-dark-purple', 'dark')">
+          <img
+            src="assets/images/themes/bootstrap4-dark-purple.svg"
+            class="w-2rem h-2rem"
+            alt="Bootstrap Dark Purple" />
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="mt-6">
+    <h5>Tailwind</h5>
+    <div class="grid mt-1">
+      <div class="col-3">
+        <button
+          class="p-link w-2rem h-2rem"
+          (click)="changeTheme('tailwind-light', 'light')">
+          <img
+            src="assets/images/themes/tailwind-light.png"
+            class="w-2rem h-2rem"
+            alt="Tailwind Light" />
+        </button>
+      </div>
+    </div>
+
+    <h5>Fluent UI</h5>
+    <div class="grid mt-1">
+      <div class="col-3">
+        <button
+          class="p-link w-2rem h-2rem"
+          (click)="changeTheme('fluent-light', 'light')">
+          <img
+            src="assets/images/themes/fluent-light.png"
+            class="w-2rem h-2rem"
+            alt="Fluent Light" />
+        </button>
+      </div>
+    </div>
+  </div>
+</p-sidebar>
+<i (click)="toogleSidebarVisible()" class="pi pi-spin pi-cog" style="font-size: 2rem"></i>

@@ -1,0 +1,50 @@
+{
+  "products": "products",
+
+  "Filter": "Filters",
+  "MaxPrice": "Maximum price",
+  "FilterByCategory": "Filter by category",
+  "FilterByRating": "Filter by rating",
+
+  "IbmShopFooter": " IBM Shop | ALL RIGHT RESERVED",
+
+  "Register": "Register",
+  "EnterYourData": "Enter your data",
+  "Name": "Name",
+  "Date": "Date",
+  "PhoneNumber": "Phone number",
+  "Password": "Password",
+  "ConfirmPassword": "ConfirmPassword",
+  
+  "accessYourAccount": "Access Your Account",
+  "ForgotYourPassword": "Forgot Your Password",
+  "DoNotHaveAnAccountYet": "Do Not Have An AccountYet",
+
+  "Photo": "Photo",
+  "Price": "Price",
+  "Quantity": "Quantity",
+  "TotalPrice": "Total Price",
+  "TotalProductsInCart" : "Total Products In Cart",
+
+  "YouAreEditingCategory" : "You Are Editing Category",
+  "YouAreCreatingCategory" : "You Are CreatingmCategory",
+  "NameCategory" : "Name Category",
+  "EditingCategory" : "Editing Category",
+  "CreatingCategory" : "Creating Category",
+
+  "YouAreEditingSubCategory" : "You Are Editing SubCategory",
+  "YouAreCreatingSubCategory" : "You Are Creating SubCategory",
+  "NameSubCategory" : "Name SubCategory",
+  "EditingSubCategory" : "Editing SubCategory",
+  "CreatingSubCategory" : "Creating SubCategory",
+
+  "RemovedCategory" : "Removed Category",
+  "Category" : "Category",
+
+  "RemovedSubCategory" :"Removed SubCategory",
+  "AddSubCategory" : "Add SubCategory",
+  "SubCategory" : "SubCategory",
+
+  "Products" : "Products",
+  "NameProducts": "NameProducts"
+}

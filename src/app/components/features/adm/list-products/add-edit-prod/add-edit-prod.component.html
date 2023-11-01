@@ -1,0 +1,72 @@
+<!-- <p-toast
+  [showTransformOptions]="'translateY(100%)'"
+  [showTransitionOptions]="'1000ms'"
+  [hideTransitionOptions]="'1000ms'"
+  [showTransformOptions]="'translateX(100%)'"></p-toast>
+<div class="flex flex-column m-8 gap-8">
+  <div class="justify-content-center">
+    <h1 style="color: blue" *ngIf="isEditMode">VOCÊ ESTÁ EDITANDO UM PRODUTO...</h1>
+    <h1 style="color: blue" *ngIf="!isEditMode">VOCÊ ESTÁ CRIANDO UM PRODUTO...</h1>
+  </div>
+  <form [formGroup]="form">
+    <div class="flex flex-column">
+      <label>NOME DO PRODUTO</label>
+      <input class="mt-3" pInputText type="text" formControlName="name" />
+      <app-custom-validation-message
+        [controlContainer]="form.get('name')!"></app-custom-validation-message>
+    </div>
+    <div class="flex flex-column mt-5">
+      <label>SKU</label>
+      <input class="mt-3" pInputText type="text" formControlName="sku" />
+      <app-custom-validation-message
+        [controlContainer]="form.get('sku')!"></app-custom-validation-message>
+    </div>
+    <div class="flex flex-column mt-5">
+      <label>PREÇO UNITARIO</label>
+      <input class="mt-3" pInputText type="number" formControlName="unitPrice" />
+      <app-custom-validation-message
+        [controlContainer]="form.get('unitPrice')!"></app-custom-validation-message>
+    </div>
+    <div class="flex flex-column mt-5">
+      <label>NOME DA CATEGORIA</label>
+      <input class="mt-3" pInputText type="text" formControlName="category_name" />
+      <app-custom-validation-message
+        [controlContainer]="form.get('category_name')!"></app-custom-validation-message>
+    </div>
+    <div class="flex flex-column mt-5">
+      <label>NOME DA SUBCATEGORIA</label>
+      <input class="mt-3" pInputText type="text" formControlName="subcategory_name" />
+      <app-custom-validation-message
+        [controlContainer]="
+          form.get('subcategory_name')!
+        "></app-custom-validation-message>
+    </div>
+
+    <div class="flex flex-column mt-5">
+      <label>STATUS</label>
+      <input class="mt-3" pInputText type="text" formControlName="active" />
+      <app-custom-validation-message
+        [controlContainer]="form.get('active')!"></app-custom-validation-message>
+    </div>
+    <div class="flex flex-column mt-5">
+      <label>ESTOQUE</label>
+      <input class="mt-3" pInputText type="number" formControlName="unitsInStock" />
+      <app-custom-validation-message
+        [controlContainer]="form.get('unitsInStock')!"></app-custom-validation-message>
+    </div>
+    <div class="flex flex-column mt-5">
+      <p>IMAGEM DO PRODUTO</p>
+      <p-button class="mt-3"> + ESCOLHER IMAGEM</p-button>
+    </div>
+    <div class="flex flex-column mt-5">
+      <p>DESCRIÇÃO DO PRODUTO</p>
+      <input class="mt-3" pInputText type="text" formControlName="description" />
+      <app-custom-validation-message
+        [controlContainer]="form.get('description')!"></app-custom-validation-message>
+    </div>
+    <div class="mt-5">
+      <p-button *ngIf="!isEditMode" (onClick)="createProduct()">CRIAR PRODUTO</p-button>
+      <p-button *ngIf="isEditMode"> EDITAR PRODUTO</p-button>
+    </div>
+  </form>
+</div> -->

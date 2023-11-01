@@ -1,0 +1,48 @@
+{
+  "Filter": "Filtros",
+  "MaxPrice": "Preço Máximo",
+  "FilterByCategory": "Filtro por categoria",
+  "FilterByRating": "Filtro por avaliação",
+
+  "IbmShopFooter": "IBM Shop | TODOS OD DIREITOS RESERVADOS",
+
+  "Register": "Faça o cadastro",
+  "EnterYourData": "Insira seus dados",
+  "Name": "Nome",
+  "Date": "Data de nascimento",
+  "PhoneNumber": "Telefone",
+  "Password": "Senha",
+  "ConfirmPassword": "Comfirmar Senha",
+
+  "accessYourAccount": "Acesse sua conta",
+  "ForgotYourPassword": "Esqueceu sua senha",
+  "DoNotHaveAnAccountYet": "Não tem uma conta ainda",
+
+  "Photo": "Foto",
+  "Price": "Preço",
+  "Quantity": "Quantidade",
+  "TotalPrice": "Quantidade Total",
+  "TotalProductsInCart" : "Total de produtos no carrinho",
+
+  "YouAreEditingCategory" : "VOCÊ ESTÁ EDITANDO UMA CATEGORIA...",
+  "YouAreCreatingCategory" : "VOCÊ ESTÁ CRIANDO UMA CATEGORIA...",
+  "NameCategory" : "NOME DA CATEGORIA",
+  "EditingCategory" : "Editar categoria",
+  "CreatingCategory" : "Criar categoria",
+
+  "YouAreEditingSubCategory" : "VOCÊ ESTÁ EDITANDO UMA SUBCATEGORIA...",
+  "YouAreCreatingSubCategory" : "VOCÊ ESTÁ CRIANDO UMA SUBCATEGORIA...",
+  "NameSubCategory" : "NOME DA SUBCATEGORIA",
+  "EditingSubCategory" : "Editar Subcategoria",
+  "CreatingSubCategory" : "Criar Subcategoria",
+
+  "RemovedCategory" : "REMOVER CATEGORIA",
+  "Category" : "CATEGORIAS",
+
+  "RemovedSubCategory" :"REMOVER SUBCATEGORIA",
+  "AddSubCategory" : "ADICIONAR SUBCATEGORIA",
+  "SubCategory" : "SUBCATEGORIAS",
+
+  "Products" : "PRODUTOS",
+  "NameProducts": "NOME DOS PRODUTOS"
+}

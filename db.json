@@ -1,0 +1,2759 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "sku": "BOOK-TECH-1001",
+      "name": "Become a Guru in JavaScript",
+      "description": "Learn JavaScript at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 20.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1001.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 88,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": true,
+      "rating": 1.2,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/2"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/2"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/2/category"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "sku": "BOOK-TECH-1002",
+      "name": "Exploring Vue.js",
+      "description": "Learn Vue.js at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 14.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1002.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 5,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": true,
+      "rating": 2,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/3"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/3"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/3/category"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "sku": "BOOK-TECH-1003",
+      "name": "Advanced Techniques in Big Data",
+      "description": "Learn Big Data at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 13.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1003.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": true,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/4"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/4"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/4/category"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "sku": "BOOK-TECH-1004",
+      "name": "Crash Course in Big Data",
+      "description": "Learn Big Data at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1004.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/5"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/5"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/5/category"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "sku": "BOOK-TECH-1005",
+      "name": "JavaScript Cookbook",
+      "description": "Learn JavaScript at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 23.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1005.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/6"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/6"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/6/category"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "sku": "BOOK-TECH-1006",
+      "name": "Beginners Guide to SQL",
+      "description": "Learn SQL at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 14.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1006.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/7"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/7"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/7/category"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "sku": "BOOK-TECH-1007",
+      "name": "Advanced Techniques in JavaScript",
+      "description": "Learn JavaScript at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1007.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/8"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/8"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/8/category"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "sku": "BOOK-TECH-1008",
+      "name": "Introduction to Spring Boot",
+      "description": "Learn Spring Boot at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 25.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1008.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/9"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/9"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/9/category"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "sku": "BOOK-TECH-1009",
+      "name": "Become a Guru in React.js",
+      "description": "Learn React.js at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 23.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1009.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/10"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/10"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/10/category"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "sku": "BOOK-TECH-1010",
+      "name": "Beginners Guide to Data Science",
+      "description": "Learn Data Science at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 24.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1010.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/11"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/11"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/11/category"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "sku": "BOOK-TECH-1011",
+      "name": "Advanced Techniques in Java",
+      "description": "Learn Java at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 19.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1011.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/12"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/12"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/12/category"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "sku": "BOOK-TECH-1012",
+      "name": "Exploring DevOps",
+      "description": "Learn DevOps at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 24.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1012.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/13"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/13"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/13/category"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "sku": "BOOK-TECH-1013",
+      "name": "The Expert Guide to SQL",
+      "description": "Learn SQL at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 19.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1013.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/14"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/14"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/14/category"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "sku": "BOOK-TECH-1014",
+      "name": "Introduction to SQL",
+      "description": "Learn SQL at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 22.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1014.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/15"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/15"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/15/category"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "sku": "BOOK-TECH-1015",
+      "name": "The Expert Guide to JavaScript",
+      "description": "Learn JavaScript at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 22.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1015.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/16"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/16"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/16/category"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "sku": "BOOK-TECH-1016",
+      "name": "Exploring React.js",
+      "description": "Learn React.js at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 27.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1016.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/17"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/17"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/17/category"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "sku": "BOOK-TECH-1017",
+      "name": "Advanced Techniques in React.js",
+      "description": "Learn React.js at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 13.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1017.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/18"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/18"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/18/category"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "sku": "BOOK-TECH-1018",
+      "name": "Introduction to C#",
+      "description": "Learn C# at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 26.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1018.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/19"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/19"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/19/category"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "sku": "BOOK-TECH-1019",
+      "name": "Crash Course in JavaScript",
+      "description": "Learn JavaScript at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+      "unitPrice": 13.99,
+      "imageUrl": "assets/images/products/books/book-luv2code-1019.png",
+      "category_id": 1,
+      "category_name": "books",
+      "subcategory_id": 1,
+      "subcategory_name": "Livros-de-tecnologia",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/20"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/20"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/20/category"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "sku": "COFFEEMUG-1000",
+      "name": "Coffee Mug - Express",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1000.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/26"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/26"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/26/category"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "sku": "COFFEEMUG-1001",
+      "name": "Coffee Mug - Cherokee",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1001.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/27"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/27"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/27/category"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "sku": "COFFEEMUG-1002",
+      "name": "Coffee Mug - Sweeper",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1002.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/28"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/28"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/28/category"
+        }
+      }
+    },
+    {
+      "id": 24,
+      "sku": "COFFEEMUG-1003",
+      "name": "Coffee Mug - Aspire",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1003.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/29"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/29"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/29/category"
+        }
+      }
+    },
+    {
+      "id": 25,
+      "sku": "COFFEEMUG-1004",
+      "name": "Coffee Mug - Dorian",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1004.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/30"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/30"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/30/category"
+        }
+      }
+    },
+    {
+      "id": 26,
+      "sku": "COFFEEMUG-1005",
+      "name": "Coffee Mug - Columbia",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1005.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/31"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/31"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/31/category"
+        }
+      }
+    },
+    {
+      "id": 27,
+      "sku": "COFFEEMUG-1006",
+      "name": "Coffee Mug - Worthing",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1006.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/32"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/32"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/32/category"
+        }
+      }
+    },
+    {
+      "id": 28,
+      "sku": "COFFEEMUG-1007",
+      "name": "Coffee Mug - Oak Cliff",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1007.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/33"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/33"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/33/category"
+        }
+      }
+    },
+    {
+      "id": 29,
+      "sku": "COFFEEMUG-1008",
+      "name": "Coffee Mug - Tachyon",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1008.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/34"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/34"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/34/category"
+        }
+      }
+    },
+    {
+      "id": 30,
+      "sku": "COFFEEMUG-1009",
+      "name": "Coffee Mug - Pan",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1009.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/35"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/35"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/35/category"
+        }
+      }
+    },
+    {
+      "id": 31,
+      "sku": "COFFEEMUG-1010",
+      "name": "Coffee Mug - Phase",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1010.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/36"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/36"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/36/category"
+        }
+      }
+    },
+    {
+      "id": 32,
+      "sku": "COFFEEMUG-1011",
+      "name": "Coffee Mug - Falling",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1011.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/37"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/37"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/37/category"
+        }
+      }
+    },
+    {
+      "id": 33,
+      "sku": "COFFEEMUG-1012",
+      "name": "Coffee Mug - Wispy",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1012.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/38"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/38"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/38/category"
+        }
+      }
+    },
+    {
+      "id": 34,
+      "sku": "COFFEEMUG-1013",
+      "name": "Coffee Mug - Arlington",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1013.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/39"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/39"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/39/category"
+        }
+      }
+    },
+    {
+      "id": 35,
+      "sku": "COFFEEMUG-1014",
+      "name": "Coffee Mug - Gazing",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1014.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/40"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/40"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/40/category"
+        }
+      }
+    },
+    {
+      "id": 36,
+      "sku": "COFFEEMUG-1015",
+      "name": "Coffee Mug - Azura",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 9,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1015.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/41"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/41"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/41/category"
+        }
+      }
+    },
+    {
+      "id": 37,
+      "sku": "COFFEEMUG-1016",
+      "name": "Coffee Mug - Quantum Leap",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1016.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/42"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/42"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/42/category"
+        }
+      }
+    },
+    {
+      "id": 38,
+      "sku": "COFFEEMUG-1017",
+      "name": "Coffee Mug - Light Years",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1017.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/43"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/43"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/43/category"
+        }
+      }
+    },
+    {
+      "id": 39,
+      "sku": "COFFEEMUG-1018",
+      "name": "Coffee Mug - Taylor",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1018.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/44"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/44"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/44/category"
+        }
+      }
+    },
+    {
+      "id": 40,
+      "sku": "COFFEEMUG-1019",
+      "name": "Coffee Mug - Gracia",
+      "description": "Do you love mathematics? If so, then you need this elegant coffee mug with an amazing fractal design. You don't have to worry about boring coffee mugs anymore. This coffee mug will be the topic of conversation in the office, guaranteed! Buy it now!",
+      "unitPrice": 18.99,
+      "imageUrl": "assets/images/products/coffeemugs/coffeemug-luv2code-1019.png",
+      "category_id": 2,
+      "category_name": "coffee-mugs",
+      "subcategory_id": 1,
+      "subcategory_name": "Xicaras-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/45"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/45"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/45/category"
+        }
+      }
+    },
+    {
+      "id": 41,
+      "sku": "MOUSEPAD-1000",
+      "name": "Mouse Pad - Express",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1000.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/51"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/51"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/51/category"
+        }
+      }
+    },
+    {
+      "id": 42,
+      "sku": "MOUSEPAD-1001",
+      "name": "Mouse Pad - Cherokee",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1001.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/52"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/52"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/52/category"
+        }
+      }
+    },
+    {
+      "id": 43,
+      "sku": "MOUSEPAD-1002",
+      "name": "Mouse Pad - Sweeper",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1002.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/53"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/53"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/53/category"
+        }
+      }
+    },
+    {
+      "id": 44,
+      "sku": "MOUSEPAD-1003",
+      "name": "Mouse Pad - Aspire",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1003.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/54"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/54"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/54/category"
+        }
+      }
+    },
+    {
+      "id": 45,
+      "sku": "MOUSEPAD-1004",
+      "name": "Mouse Pad - Dorian",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1004.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/55"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/55"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/55/category"
+        }
+      }
+    },
+    {
+      "id": 46,
+      "sku": "MOUSEPAD-1005",
+      "name": "Mouse Pad - Columbia",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1005.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/56"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/56"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/56/category"
+        }
+      }
+    },
+    {
+      "id": 47,
+      "sku": "MOUSEPAD-1006",
+      "name": "Mouse Pad - Worthing",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1006.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/57"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/57"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/57/category"
+        }
+      }
+    },
+    {
+      "id": 48,
+      "sku": "MOUSEPAD-1007",
+      "name": "Mouse Pad - Oak Cliff",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1007.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/58"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/58"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/58/category"
+        }
+      }
+    },
+    {
+      "id": 49,
+      "sku": "MOUSEPAD-1008",
+      "name": "Mouse Pad - Tachyon",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1008.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/59"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/59"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/59/category"
+        }
+      }
+    },
+    {
+      "id": 50,
+      "sku": "MOUSEPAD-1009",
+      "name": "Mouse Pad - Pan",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1009.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/60"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/60"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/60/category"
+        }
+      }
+    },
+    {
+      "id": 51,
+      "sku": "MOUSEPAD-1010",
+      "name": "Mouse Pad - Phase",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1010.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/61"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/61"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/61/category"
+        }
+      }
+    },
+    {
+      "id": 52,
+      "sku": "MOUSEPAD-1011",
+      "name": "Mouse Pad - Falling",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1011.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/62"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/62"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/62/category"
+        }
+      }
+    },
+    {
+      "id": 53,
+      "sku": "MOUSEPAD-1012",
+      "name": "Mouse Pad - Wispy",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1012.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/63"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/63"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/63/category"
+        }
+      }
+    },
+    {
+      "id": 54,
+      "sku": "MOUSEPAD-1013",
+      "name": "Mouse Pad - Arlington",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1013.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/64"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/64"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/64/category"
+        }
+      }
+    },
+    {
+      "id": 55,
+      "sku": "MOUSEPAD-1014",
+      "name": "Mouse Pad - Gazing",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1014.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/65"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/65"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/65/category"
+        }
+      }
+    },
+    {
+      "id": 56,
+      "sku": "MOUSEPAD-1015",
+      "name": "Mouse Pad - Azura",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1015.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/66"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/66"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/66/category"
+        }
+      }
+    },
+    {
+      "id": 57,
+      "sku": "MOUSEPAD-1016",
+      "name": "Mouse Pad - Quantum Leap",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1016.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/67"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/67"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/67/category"
+        }
+      }
+    },
+    {
+      "id": 58,
+      "sku": "MOUSEPAD-1017",
+      "name": "Mouse Pad - Light Years",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1017.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/68"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/68"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/68/category"
+        }
+      }
+    },
+    {
+      "id": 59,
+      "sku": "MOUSEPAD-1018",
+      "name": "Mouse Pad - Taylor",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1018.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/69"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/69"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/69/category"
+        }
+      }
+    },
+    {
+      "id": 60,
+      "sku": "MOUSEPAD-1019",
+      "name": "Mouse Pad - Gracia",
+      "description": "Fractal images are amazing! You can now own a mouse pad with a unique and amazing fractal. The mouse pad is made of a durable and smooth material. Your mouse will easily glide across the mouse pad. This mouse pad will brighten your workspace. Buy it now!",
+      "unitPrice": 17.99,
+      "imageUrl": "assets/images/products/mousepads/mousepad-luv2code-1019.png",
+      "category_id": 3,
+      "category_name": "mouse-pads",
+      "subcategory_id": 1,
+      "subcategory_name": "mouse-pads-gamer",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/70"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/70"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/70/category"
+        }
+      }
+    },
+    {
+      "id": 61,
+      "sku": "LUGGAGETAG-1000",
+      "name": "Luggage Tag - Cherish",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1000.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": true,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/76"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/76"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/76/category"
+        }
+      }
+    },
+    {
+      "id": 62,
+      "sku": "LUGGAGETAG-1001",
+      "name": "Luggage Tag - Adventure",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1001.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/77"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/77"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/77/category"
+        }
+      }
+    },
+    {
+      "id": 63,
+      "sku": "LUGGAGETAG-1002",
+      "name": "Luggage Tag - Skyline",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1002.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/78"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/78"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/78/category"
+        }
+      }
+    },
+    {
+      "id": 64,
+      "sku": "LUGGAGETAG-1003",
+      "name": "Luggage Tag - River",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1003.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/79"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/79"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/79/category"
+        }
+      }
+    },
+    {
+      "id": 65,
+      "sku": "LUGGAGETAG-1004",
+      "name": "Luggage Tag - Trail Steps",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1004.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/80"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/80"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/80/category"
+        }
+      }
+    },
+    {
+      "id": 66,
+      "sku": "LUGGAGETAG-1005",
+      "name": "Luggage Tag - Blooming",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1005.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/81"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/81"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/81/category"
+        }
+      }
+    },
+    {
+      "id": 67,
+      "sku": "LUGGAGETAG-1006",
+      "name": "Luggage Tag - Park",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1006.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/82"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/82"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/82/category"
+        }
+      }
+    },
+    {
+      "id": 68,
+      "sku": "LUGGAGETAG-1007",
+      "name": "Luggage Tag - Beauty",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1007.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/83"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/83"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/83/category"
+        }
+      }
+    },
+    {
+      "id": 69,
+      "sku": "LUGGAGETAG-1008",
+      "name": "Luggage Tag - Water Fall",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1008.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/84"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/84"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/84/category"
+        }
+      }
+    },
+    {
+      "id": 70,
+      "sku": "LUGGAGETAG-1009",
+      "name": "Luggage Tag - Trail",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1009.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/85"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/85"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/85/category"
+        }
+      }
+    },
+    {
+      "id": 71,
+      "sku": "LUGGAGETAG-1010",
+      "name": "Luggage Tag - Skyscraper",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1010.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/86"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/86"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/86/category"
+        }
+      }
+    },
+    {
+      "id": 72,
+      "sku": "LUGGAGETAG-1011",
+      "name": "Luggage Tag - Leaf",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1011.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/87"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/87"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/87/category"
+        }
+      }
+    },
+    {
+      "id": 73,
+      "sku": "LUGGAGETAG-1012",
+      "name": "Luggage Tag - Jungle",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1012.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/88"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/88"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/88/category"
+        }
+      }
+    },
+    {
+      "id": 74,
+      "sku": "LUGGAGETAG-1013",
+      "name": "Luggage Tag - Shoreline",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1013.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/89"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/89"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/89/category"
+        }
+      }
+    },
+    {
+      "id": 75,
+      "sku": "LUGGAGETAG-1014",
+      "name": "Luggage Tag - Blossom",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1014.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/90"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/90"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/90/category"
+        }
+      }
+    },
+    {
+      "id": 76,
+      "sku": "LUGGAGETAG-1015",
+      "name": "Luggage Tag - Lock",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1015.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/91"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/91"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/91/category"
+        }
+      }
+    },
+    {
+      "id": 77,
+      "sku": "LUGGAGETAG-1016",
+      "name": "Luggage Tag - Cafe",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1016.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/92"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/92"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/92/category"
+        }
+      }
+    },
+    {
+      "id": 78,
+      "sku": "LUGGAGETAG-1017",
+      "name": "Luggage Tag - Darling",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1017.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/93"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/93"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/93/category"
+        }
+      }
+    },
+    {
+      "id": 79,
+      "sku": "LUGGAGETAG-1018",
+      "name": "Luggage Tag - Full Stack",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1018.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/94"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/94"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/94/category"
+        }
+      }
+    },
+    {
+      "id": 80,
+      "sku": "LUGGAGETAG-1019",
+      "name": "Luggage Tag - Courtyard",
+      "description": "This luggage tag will help you identify your luggage. The luggage tag is very unique and it will stand out from the crowd. The luggage tag is created out of a rugged and durable plastic. Buy this luggage tag now to make it easy to identify your luggage!",
+      "unitPrice": 16.99,
+      "imageUrl": "assets/images/products/luggagetags/luggagetag-luv2code-1019.png",
+      "category_id": 4,
+      "category_name": "luggage-tags",
+      "subcategory_id": 1,
+      "subcategory_name": "Tags-personalizadas",
+      "active": true,
+      "unitsInStock": 100,
+      "dateCreated": "2023-02-02T23:31:30.000+00:00",
+      "lastUpdated": null,
+      "newProduct": false,
+      "rating": 4.5,
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/products/95"
+        },
+        "product": {
+          "href": "http://localhost:8080/products/95"
+        },
+        "category": {
+          "href": "http://localhost:8080/products/95/category"
+        }
+      }
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "category_name": "Books",
+      "categoria": "Book"
+    },
+    {
+      "id": 2,
+      "category_name": "Coffee Mugs",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/product-category/2"
+        },
+        "productCategory": {
+          "href": "http://localhost:8080/product-category/2"
+        },
+        "products": {
+          "href": "http://localhost:8080/product-category/2/products"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "category_name": "Mouse Pads",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/product-category/3"
+        },
+        "productCategory": {
+          "href": "http://localhost:8080/product-category/3"
+        },
+        "products": {
+          "href": "http://localhost:8080/product-category/3/products"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "category_name": "Luggage Tags",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/product-category/4"
+        },
+        "productCategory": {
+          "href": "http://localhost:8080/product-category/4"
+        },
+        "products": {
+          "href": "http://localhost:8080/product-category/4/products"
+        }
+      }
+    }
+  ],
+  "subcategorys": [
+    {
+      "subCategory_name": "sub categoria",
+      "category_name": "categorias",
+      "id": 3
+    },
+    {
+      "subCategory_name": "sub categoria",
+      "category_name": "categoria",
+      "id": 4
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "code": "BR",
+      "name": "Brazil",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/countries/1"
+        },
+        "country": {
+          "href": "http://localhost:8080/countries/1"
+        },
+        "states": {
+          "href": "http://localhost:8080/countries/1/states"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "code": "CA",
+      "name": "Canada",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/countries/2"
+        },
+        "country": {
+          "href": "http://localhost:8080/countries/2"
+        },
+        "states": {
+          "href": "http://localhost:8080/countries/2/states"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "code": "DE",
+      "name": "Germany",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/countries/3"
+        },
+        "country": {
+          "href": "http://localhost:8080/countries/3"
+        },
+        "states": {
+          "href": "http://localhost:8080/countries/3/states"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "code": "IN",
+      "name": "India",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/countries/4"
+        },
+        "country": {
+          "href": "http://localhost:8080/countries/4"
+        },
+        "states": {
+          "href": "http://localhost:8080/countries/4/states"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "code": "TR",
+      "name": "Turkey",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/countries/5"
+        },
+        "country": {
+          "href": "http://localhost:8080/countries/5"
+        },
+        "states": {
+          "href": "http://localhost:8080/countries/5/states"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "code": "US",
+      "name": "United States",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/countries/6"
+        },
+        "country": {
+          "href": "http://localhost:8080/countries/6"
+        },
+        "states": {
+          "href": "http://localhost:8080/countries/6/states"
+        }
+      }
+    }
+  ],
+  "states": [
+    {
+      "id": 1,
+      "name": "Acre",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/1"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/1"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/1/country"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Alagoas",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/2"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/2"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/2/country"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Amapá",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/3"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/3"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/3/country"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Amazonas",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/4"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/4"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/4/country"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Bahia",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/5"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/5"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/5/country"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Ceará",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/6"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/6"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/6/country"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Distrito Federal",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/7"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/7"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/7/country"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Espírito Santo",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/8"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/8"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/8/country"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Goiás",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/9"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/9"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/9/country"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Maranhão",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/10"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/10"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/10/country"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Mato Grosso do Sul",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/11"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/11"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/11/country"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Mato Grosso",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/12"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/12"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/12/country"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "Minas Gerais",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/13"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/13"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/13/country"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "Paraná",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/14"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/14"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/14/country"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "name": "Paraíba",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/15"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/15"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/15/country"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "name": "Pará",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/16"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/16"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/16/country"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "name": "Pernambuco",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/17"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/17"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/17/country"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "name": "Piaui",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/18"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/18"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/18/country"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "name": "Rio de Janeiro",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/19"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/19"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/19/country"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "name": "Rio Grande do Norte",
+      "_links": {
+        "self": {
+          "href": "http://localhost:8080/states/20"
+        },
+        "state": {
+          "href": "http://localhost:8080/states/20"
+        },
+        "country": {
+          "href": "http://localhost:8080/states/20/country"
+        }
+      }
+    }
+  ]
+}
